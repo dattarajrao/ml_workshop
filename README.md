@@ -2,5 +2,5 @@
 
 # Code from ML Workshop conducted by Dattaraj Rao at VISUM Conference Europe
 
-Author: Dattaraj Rao (dattaraj_rao@pesistent.com) <br>
+Author: Dattaraj Rao <br>
 https://www.linkedin.com/in/dattarajrao/
